@@ -7,6 +7,7 @@ Aprendendo React, neste caso, aplicações do useState, useEffect e useContext e
 - Página de carregamento até que ocorra o consumo da API
 - Caso não haja nenhum item no carrinho, um aviso alertando isso é exibido
 - Botão para limpar o carrinho
+
 Projeto desenvolvido através do curso do John Smilga de React. Página no Netlify: https://cart-learning-reactjs.netlify.app
 
 ![image](https://user-images.githubusercontent.com/103163622/189797276-3e1ff9c8-0f71-4b59-9f50-584dd725bbed.png)
